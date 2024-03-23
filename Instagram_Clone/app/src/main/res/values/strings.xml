@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Instagram_Clone</string>
+    <string name="username">burakbinmunir</string>
+    <string name="settings">Settings</string>
+    <string name="whatever_not_interested">Whatever | Not Interested</string>
+    <string name="followers">18</string>
+    <string name="posts">100</string>
+    <string name="following">50</string>
+    <string name="posts_text">Posts</string>
+    <string name="followers_text">Followers</string>
+    <string name="followings_text">Followings</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="burak_bin_munir">Burak Bin Munir</string>
+    <string name="share_profile">Share Profile</string>
+    <string name="heart">Heart</string>
+    <string name="user">User</string>
+    <string name="camera">Camera</string>
+    <string name="search">Search</string>
+    <string name="home">Home</string>
+</resources>
